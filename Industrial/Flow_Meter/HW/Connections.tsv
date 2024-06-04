@@ -1,0 +1,7 @@
+	FS1025	Pin		Arduino	
+	VDD	1		5V	
+	GND	2		GND	
+	OUTPUT	3		A1	Analog
+	NC	4			
+	HE	5		A3	Digital
+	TEMP	6		A2	Analog
