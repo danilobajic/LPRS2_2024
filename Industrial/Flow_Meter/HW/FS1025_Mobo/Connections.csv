@@ -1,0 +1,7 @@
+	FS1025	Pin	Color	Arduino		
+	VDD	1	Red	5V		
+	GND	2	Black	GND		
+	OUTPUT	3	Brown	A1	Analog	
+	NC	4				
+	HE	5	Orange 	A2	Digital	
+	TEMP	6	Yellow	A3	Analog	1
